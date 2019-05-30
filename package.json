@@ -1,0 +1,19 @@
+{
+  "name": "pethut-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingfrehness/pethut-backend-.git"
+  },
+  "author": "Kinging",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingfrehness/pethut-backend-/issues"
+  },
+  "homepage": "https://github.com/kingfrehness/pethut-backend-#readme"
+}
